@@ -31,4 +31,8 @@ REQUISITOS:
   UX/UI
     responsividade
     facilidade de uso, dados claros e sem cara de produto genérico
+    Fluxo de navegação - Excalidraw ou figma explicando o funcionamento das telas
+
+  CERIMÔNIAS / SCRUM
+    Trello com Sprint
   
